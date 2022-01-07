@@ -25,5 +25,5 @@ test("matrix produce a 4x4 array", () => {
     expect(m[0]).toEqual([1, 2, 3, 4]);
     expect(m[1]).toEqual([12, 13, 14, 5]);
     expect(m[2]).toEqual([11, 16, 15, 6]);
-    expect(m[4]).toEqual([10 ,9, 8, 7]);
+    expect(m[3]).toEqual([10 ,9, 8, 7]);
 });
